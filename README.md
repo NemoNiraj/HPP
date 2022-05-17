@@ -7,3 +7,10 @@ House Price Prediction using King's County Housing dataset
 - `python app.py`
 - Open `http://localhost:8050/` in browser
 
+
+
+### Latest-
+ Added to main file -
+ -mlmodels
+ -vieews
+ -pages
